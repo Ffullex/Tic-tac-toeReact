@@ -1,2 +1,1 @@
-# Tic-tac-toeReact
-Something of React
+Крестики-нолики
